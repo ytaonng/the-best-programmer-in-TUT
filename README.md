@@ -1,5 +1,5 @@
-# the-best-programmer-in-TUT
-my repository name is just a joke,alumnus please hits me gently :)
-Ummmmmmm just a test
-ok,so this website use markdown?
-I didn't learn it in vain!!!
+# the-best-programmer-in-TUT\n
+my repository name is just a joke,alumnus please hits me gently :)\n
+Ummmmmmm just a test\n
+ok,so this website use markdown?\n
+I didn't learn it in vain!!!\n
